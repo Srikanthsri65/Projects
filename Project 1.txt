@@ -1,0 +1,7 @@
+Capstone Project : Analysis of selling classic cars company which sells vintage cars  (FEB 2023)
+
+The key objective of this project is to understand the buying behavior of different countries based on the credit limit, quantity ordered by country, product vendor and product line.
+
+Meaningful insights were extracted by performing Exploratory Data Analysis(EDA) using Power BI measures like total cost, profit,  .
+
+The cleaned dataset was transferred to MySQL, various queries were executed by applying appropriate normalization techniques to get the desired result.
